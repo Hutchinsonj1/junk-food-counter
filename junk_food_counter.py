@@ -2,7 +2,7 @@
 File: junk_food_counter.py
 Author: Jaden Hutchinson
 
-Purpose: Practice using Python!
+Purpose: Develop a valuable app with Python, ready to make a corresponding GUI
 """
 # Welcome
 print("\nWelcome to the Junk Food Counter! Do you know what junk food you eat the most often are? ")
